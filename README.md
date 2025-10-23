@@ -1,5 +1,5 @@
 About Me:
-Hi there, I'm Alia Jonathan<br>Computer scientist and software engineer passionate about building innovative solutions. Experienced in:<br><br>Front-end and back-end development<br><br>ReactJS, NestJS, Python, and Django<br><br>Interests include:<br><br>Clean energy<br><br>Home automation<br><br>Mathematics<br><br>Currently focused on front-end development, but always up for backend challenges. Eager to learn, collaborate, and create impactful technology.<br><br>Let's build something great together! <br><br>Check out my repositories and reach out!
+Hi there, I'm Alia Jonathan<br>Computer scientist and software engineer passionate about building innovative solutions. Experienced in:<br><br>Front-end and back-end development<br><br>ReactJS, NodeJS, NextJs, NestJS,Django<br><br>Interests include:<br><br>Clean energy<br><br>Home automation<br><br>Mathematics<br><br>Currently focused on front-end development, but always up for backend challenges. Eager to learn, collaborate, and create impactful technology.<br><br>Let's build something great together! <br><br>Check out my repositories and reach out!
 
 
 
